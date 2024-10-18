@@ -1,4 +1,4 @@
-# Car and Line Detection in Videos
+# Tasle, Car and Line Detection in Videos
 
 ## Required Dependencies
 
