@@ -13,7 +13,9 @@ To run this project, you need to install the following Python packages:
 
 Tasle provides a solution for detecting cars and road lines in a video. The project simulates some fundamental principles of self-driving car technology. By processing a recorded video of a road trip, the repository aims to highlight how computer vision can be applied to real-world scenarios.
 
-You can access the video used for this project [here]([insert_link_to_video](https://drive.google.com/file/d/1VrFB6E6vBjlCYJNyJ7xty-ogqFvidowH/view?usp=drive_link.)).
+You can access the video used for this project here.
+
+https://drive.google.com/file/d/1VrFB6E6vBjlCYJNyJ7xty-ogqFvidowH/view?usp=drive_link.
 
 The project is designed to run in Google Colab, where you can easily mount your Google Drive to access video files.
 
@@ -27,7 +29,9 @@ To run the notebook, follow these steps:
 
 ## Results
 
-[Output]([insert_link_to_video](https://drive.google.com/file/d/1-9QLnZQL827H5QVdo7ejGezdWx2Im1Fy/view?usp=sharing))
+Access Output Here:
+
+https://drive.google.com/file/d/1VrFB6E6vBjlCYJNyJ7xty-ogqFvidowH/view?usp=drive_link.
 
 After running the notebook, you will have an output video that clearly shows:
 - Bounding boxes around detected cars.
